@@ -45,7 +45,7 @@ html, body {
 }
 .mdl-demo .mdl-layout__tab-bar {
   padding: 0;
-  padding-left: 16px;
+  padding-left: 32px;
   box-sizing: border-box;
   height: 100%;
   width: 100%;
@@ -87,7 +87,7 @@ html, body {
   color: inherit;
 }
 .mdl-demo .mdl-card__actions a {
-  color: #00BCD4;
+  color: #000000;
   margin: 0;
 }
 .mdl-demo .mdl-card__actions a:hover,
@@ -96,7 +96,7 @@ html, body {
   background-color: transparent;
 }
 .mdl-demo .mdl-card__supporting-text + .mdl-card__actions {
-  border-top: 1px solid rgba(0, 0, 0, 0.12);
+  border-top: 1px solid rgba(0, 0, 0, .12);
 }
 .mdl-demo #add {
   position: absolute;
